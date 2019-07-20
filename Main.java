@@ -54,7 +54,7 @@ class Main {
             try{
                 filePath = new File(temp.substring(0, temp.length() - 4) + "-greyscale.jpg");
                 ImageIO.write(img, "jpg", filePath);
-                System.out.println("File saved successfully at \"" + temp.substring(0, temp.length() - 4) + "-greyscale.jpg");
+                System.out.println("File saved successfully at \"" + temp.substring(0, temp.length() - 4) + "-greyscale.jpg\"");
             } catch(IOException e){
                 e.printStackTrace();
             }
