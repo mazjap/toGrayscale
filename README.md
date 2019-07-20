@@ -11,7 +11,7 @@ Steps to compile and use toGrayscale:
 
 3. Run ``` javac Main.java ``` in terminal
 
-4. Run ``` java Main.class ``` in terminal
+4. Run ``` java Main ``` in terminal
 
 5. Profit
 
