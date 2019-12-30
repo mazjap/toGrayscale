@@ -16,9 +16,9 @@ A simple Java program that converts an image to grayscale. I made this program b
 
 ### Credit:
 
-I used [this source](https://www.dyclassroom.com/image-processing-project/how-to-get-and-set-pixel-value-in-java) for help/inspiration:
+I used [this source](https://www.dyclassroom.com/image-processing-project/how-to-get-and-set-pixel-value-in-java) for help/inspiration
 
-As well as [this source](https://www.johndcook.com/blog/2009/08/24/algorithms-convert-color-grayscale/) for the luminosity algorithm:
+As well as [this source](https://www.johndcook.com/blog/2009/08/24/algorithms-convert-color-grayscale/) for the luminosity algorithm
 
 ## Built Using
 
